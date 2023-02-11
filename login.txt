@@ -1,0 +1,38 @@
+
+
+
+	<DOCTYPEhtml>
+<head>
+<title>CCS 1-4 Information System Log in </title>
+<head>
+<body>
+<h1 align="center" >
+<hr>
+<font color="white" style="font-size:40px" font face="Tahoma">
+CCS 1-4 Information System login
+</h1>
+<h3 align="center">
+<font size="2" font face="Arial">
+Presented by:BACHELOR OF SCIENCE INFORMATION TECHNOLOGY 1-4 (GROUP6)
+<hr>
+</h3>
+<h4 align="center">
+<body background="jhimbo.jpeg">
+
+USERNAME:<input type="text" placeholder="Enter Username" name="username" required> <label><br><br>
+PASSWORD:</label> <input type="password" placeholder="Enter Password" name="password" required><br>
+</h4>
+<h5 align="center">
+<font color="white" style="font-size:12px" font face="Tahoma">
+<a href="garcia.html">Forgot Fassword?</a><br><br>
+</h5>
+<h6 align="center">
+<font color="white" style="font-size:12px" font face="Tahoma">
+<button type="submit" value="login"><a href="homepage.html">Login</button></a>
+<button type="submit" value="singup"><a href="singup2.html">Sing up</button></a>
+</h6>
+
+
+</form>
+</body>
+</html>
