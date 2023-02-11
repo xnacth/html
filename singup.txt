@@ -1,0 +1,39 @@
+
+	<DOCTYPEhtml>
+	<html>
+	<head>
+<title>CCS 1-4 Information System Log in </title>
+<head>
+<h1 align="center" >
+<hr>
+<font color="white" style="font-size:20px" font face="Tahoma">
+ CREATE YOUR ACCOUNT
+<h1>
+<hr>
+</head>
+<body>
+<h2 align="center" >
+<font color="white" style="font-size:12px" font face="Tahoma">
+<body background="jp.jpeg">
+<label for="fname">First name:</label><br>
+<input type ="text" id="fname" name="fname" value=""><br>
+<label for="lname">Last name:</label><br>
+<input type ="text" id="fname" name="fname" value=""><br>
+<label for="fname">Enter you email:</label><br>
+<input type ="text" id="fname" name="fname" value=""><br>
+<label for="lname">Username:</label><br>
+<input type ="text" id="fname" name="fname" value=""><br>
+<label for="lname">Password:</label><br>
+<input type ="text" id="fname" name="fname" value=""><br>
+<label for="lname">Age:</label><br>
+<input type ="text" id="fname" name="fname" value=""><br>
+</form>
+<p>GENDER</p>
+<input type="radio" id="html" name="fav_language" value="HTML">
+<label for="html">Female</label><br>
+<input type ="radio" id ="css" name="fav_language" value="CSS">
+<label for="css">Male</label><br>
+<button type="login" value="login"><a href="login1.html">Submit</button></a>
+</h2>
+</body>
+</html>
